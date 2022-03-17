@@ -1,0 +1,7 @@
+torch 
+torchvision
+mxnet-cu90
+tensorflow-gpu
+tensorboardX
+opencv-python
+bcolz
