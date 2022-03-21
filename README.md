@@ -76,6 +76,7 @@ The code of [face.evoLVe](#Introduction) is released under the MIT License.
 * TensorFlow 1.12 (optional, for visualization, install w/ `pip install tensorflow-gpu`)
 * tensorboardX 1.6 (optional, for visualization, install w/ `pip install tensorboardX`)
 * OpenCV 3.4.5 (install w/ `pip install opencv-python`)
+* Before installing bcolz, enter `export DISABLE_BCOLZ_AVX2=true`
 * bcolz 1.2.0 (install w/ `pip install bcolz`)
 
 While not required, for optimal performance it is **highly** recommended to run the code using a CUDA enabled GPU. We used 4-8 NVIDIA Tesla P40 in parallel.
