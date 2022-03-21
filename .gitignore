@@ -4,3 +4,6 @@ config_f.py
 train_f.py
 
 face-evolve-env
+__pycache__
+backbone
+head
