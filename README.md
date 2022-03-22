@@ -110,7 +110,7 @@ While not required, for optimal performance it is **highly** recommended to run 
 <img src="https://github.com/ZhaoJ9014/face.evoLVe/blob/master/disp/Fig3.png" width="500px"/>
 
 * This section is based on the work of [MTCNN](https://arxiv.org/pdf/1604.02878.pdf).
-* Folder: ```./align```
+* Folder: ```applications/align```
 * Face detection, landmark localization APIs and visualization toy example with ipython notebook:
   ```python 
   from PIL import Image

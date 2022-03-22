@@ -7,3 +7,4 @@ face-evolve-env
 __pycache__
 backbone
 head
+data
