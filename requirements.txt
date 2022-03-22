@@ -5,3 +5,6 @@ tensorflow-gpu
 tensorboardX
 opencv-python
 bcolz
+sklearn
+matplotlib
+tqdm
